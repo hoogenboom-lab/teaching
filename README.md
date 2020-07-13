@@ -7,7 +7,9 @@ Professor Bart. W. Hoogenboom
 
 ###### Authors
 - Luke K. Davis (@patherlkd)
-- Lorenzo Braccini
+- Lorenzo Braccin
+- Livia Maskos
+- Adrien Claret-Tournier
 
 ## How to use this repository
 
