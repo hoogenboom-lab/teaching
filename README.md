@@ -31,4 +31,4 @@ Professor Bart. W. Hoogenboom
 
 ## Issues and course content
 
-Please contact the lead.
+Please contact the lead/ raise an issue on the repository.
