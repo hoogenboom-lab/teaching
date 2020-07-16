@@ -21,7 +21,7 @@ Professor Bart. W. Hoogenboom
 
 3. Click on a jupyter notebook of your choice.
 
-4. Click `Cell` and then `Run All`.
+4. Click `Cell` and then `Run All` (Unless other running instructions specified).
 
 ### Using the code
 
@@ -31,4 +31,4 @@ Professor Bart. W. Hoogenboom
 
 ## Issues and course content
 
-Please contact the lead.
+Please contact the lead/ raise an issue on the repository.
