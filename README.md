@@ -37,13 +37,13 @@ Please contact the lead/ raise an issue on the repository.
 
 ## For the implementers (that have been granted push access):
 
-### Github commands (assmuing UNIX (linux/Mac OS) terminal):
+### Github commands (assuming UNIX (linux/Mac OS) terminal):
 
 - To clone current version onto you local machine:
 ```
 <terminal>$ git clone https://github.com/hoogenboom-lab/teaching.git
 ```
-- To update your local copy with update remote changes:
+- To update your local copy with updated remote changes:
 ```
 <terminal>$ git pull origin master
 ```
@@ -58,11 +58,11 @@ Please contact the lead/ raise an issue on the repository.
 ```
 <terminal>$ jupyter notebook
 ```
-Then add or change your code to the notebook and save to a sensible filename = <file>. If you are updating an existing notebook, save it to the **same filename**.
+Then add or change your code to the notebook and save to a sensible filename = ``<file>``. If you are updating an existing notebook, save it to the **same filename**.
 
 ```
 <terminal>$ git add <file>
-<terminal>$ git commit -m "Added <file>.
+<terminal>$ git commit -m "Added <file>".
 <terminal>$ git push origin master
 ```
 You can also upload files on the github page itself (`` Add file``).
