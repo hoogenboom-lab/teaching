@@ -65,4 +65,6 @@ Then add or change your code to the notebook and save to a sensible filename = <
 <terminal>$ git commit -m "Added <file>.
 <terminal>$ git push origin master
 ```
+You can also upload files on the github page itself (`` Add file``).
+
 - If you encounter merge issues, please contact Luke Davis (via Slack/email/github).
