@@ -35,12 +35,34 @@ Notes: Different cells take time to run, if on the left side of the notebook you
 
 Please contact the lead/ raise an issue on the repository.
 
-## For the implementers:
+## For the implementers (that have been granted push access):
 
-### Github commands:
+### Github commands (assmuing UNIX (linux/Mac OS) terminal):
 
-To clone current version onto you local machine:
-
+- To clone current version onto you local machine:
 ```
 <terminal>$ git clone https://github.com/hoogenboom-lab/teaching.git
 ```
+- To update your local copy with update remote changes:
+```
+<terminal>$ git pull origin master
+```
+- To remove a file (please take care when doing this):
+```
+<terminal>$ rm <file>
+<terminal>$ git add .
+<terminal>$ git commit -m "Removed <file>"
+<terminal>$ git push origin master
+```
+- To add or change a file:
+```
+<terminal>$ jupyter notebook
+```
+Then add or change your code to the notebook and save to a sensible filename = <file>. If you are updating an existing notebook, save it to the **same filename**.
+
+```
+<terminal>$ git add <file>
+<terminal>$ git commit -m "Added <file>.
+<terminal>$ git push origin master
+```
+- If you encounter merge issues, please contact Luke Davis (via Slack/email/github).
