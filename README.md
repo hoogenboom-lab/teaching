@@ -31,6 +31,16 @@ Notes: Different cells take time to run, if on the left side of the notebook you
 
 - Download individual coding files.
 
-## Issues and course content
+### Issues and course content
 
 Please contact the lead/ raise an issue on the repository.
+
+## For the implementers:
+
+### Github commands:
+
+To clone current version onto you local machine:
+
+```
+<terminal>$ git clone https://github.com/hoogenboom-lab/teaching.git
+```
